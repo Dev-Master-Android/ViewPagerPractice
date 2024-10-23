@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Мой банк</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="in">Вход</string>
+    <string name="login_text">Логин</string>
+    <string name="password_text">Пароль</string>
+    <string name="loginBTN_text">Войти</string>
+    <string name="welcome_text">Добро пожаловать в Мобильный Банк</string>
+    <string name="sign_in">Зарегистрироваться</string>
+    <string name="registration">Регистрация</string>
+    <string name="start">Начать</string>
+    <string name="incorrect_text">Неправильный логин или пароль</string>
+    <string name="registr_succes">Регистрация успешна</string>
+    <string name="write_login_password">Введите логин и пароль</string>
+    <string name="your_bank">Ваш банк</string>
+    <string name="udobstvo">Удобство</string>
+    <string name="safety">Безопасность</string>
+    <string name="description1">Приложение для управления вашими финансами</string>
+    <string name="description2">Легкий доступ к вашим счетам и транзакциям</string>
+    <string name="description3">Все ваши данные под защитой</string>
+</resources>
